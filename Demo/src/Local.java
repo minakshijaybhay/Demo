@@ -1,5 +1,13 @@
 
 public class Local {
+	
+	
+	public void add() {
+		int a=10,b=5,c;
+		c=a+b;
+		System.out.println("Addition is:" +c);
+		
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -7,6 +15,7 @@ public class Local {
 		System.out.println("Hi");
 		System.out.println("hello");
 		System.out.println("Hi changes are done");
+		
 
 	}
 
