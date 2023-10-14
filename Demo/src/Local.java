@@ -13,6 +13,8 @@ public class Local {
 		
 
 	}
+	
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -20,6 +22,8 @@ public class Local {
 		System.out.println("Hi");
 		System.out.println("hello");
 		System.out.println("Hi changes are done");
+		
+		System.out.println("chnages are done and ready to be merged");
 		
 
 	}
